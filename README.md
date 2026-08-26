@@ -1,8 +1,8 @@
 # heya
 
-i'm spaced
-i occasionally build things i actually want to use
-i like to think i am nkt hakf bad at programming
+- i'm spaced
+- i occasionally build things i actually want to use
+- i like to think i am not half bad at programming
 
 ## hardware
 if you're curious:
