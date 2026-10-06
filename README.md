@@ -2,7 +2,7 @@
 
 - i'm spaced
 - i occasionally build things i actually want to use
-- i like to think i am not half bad at programming
+- i like to think i am not half bad at programming but if you disagree you should open a pr!
 
 ## hardware
 if you're curious:
